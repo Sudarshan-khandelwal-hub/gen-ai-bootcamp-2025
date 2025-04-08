@@ -14,7 +14,7 @@ Teaching Instructions:
 
 
 Student Input: 
-the car are speeding, did police do something?
+the gate is locked, where are the keys?
 
 <Example1>
 <Student Input> 
